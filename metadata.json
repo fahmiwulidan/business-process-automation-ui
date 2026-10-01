@@ -1,0 +1,6 @@
+{
+  "name": "Injani Flow - BPA & Governance Operations Cockpit",
+  "description": "Enterprise multi-role business process automation, controls governance, continuous compliance monitoring, and urgent SLA approval cockpit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
